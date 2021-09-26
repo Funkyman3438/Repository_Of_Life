@@ -1,0 +1,7 @@
+D:\MathModTasks-master\bin\Debug\MathModTasks.exe.config
+D:\MathModTasks-master\bin\Debug\MathModTasks.exe
+D:\MathModTasks-master\bin\Debug\MathModTasks.pdb
+D:\MathModTasks-master\obj\Debug\MathModTasks.csprojAssemblyReference.cache
+D:\MathModTasks-master\obj\Debug\MathModTasks.csproj.CoreCompileInputs.cache
+D:\MathModTasks-master\obj\Debug\MathModTasks.exe
+D:\MathModTasks-master\obj\Debug\MathModTasks.pdb

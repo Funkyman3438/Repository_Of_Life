@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\MathModTasks-master\bin\Debug\MathModTasks.exe.config
+C:\Users\User\Desktop\MathModTasks-master\bin\Debug\MathModTasks.exe
+C:\Users\User\Desktop\MathModTasks-master\bin\Debug\MathModTasks.pdb
+C:\Users\User\Desktop\MathModTasks-master\obj\Debug\MatemModelerUP.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MathModTasks-master\obj\Debug\MatemModelerUP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MathModTasks-master\obj\Debug\MathModTasks.exe
+C:\Users\User\Desktop\MathModTasks-master\obj\Debug\MathModTasks.pdb
